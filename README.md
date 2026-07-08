@@ -1,5 +1,7 @@
 <html>
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
     <title>Alphyn's Archive</title>
     <meta name="description" content="The place where anyone can see my work, written and drawn!">
     <link rel="stylesheet" href="/assets/style.css">
