@@ -1,7 +1,8 @@
 <html>
   <head>
     <title>Alphyn's Archive</title>
-    <description>The place where anyone can see my work, written and drawn!</description>
+    <meta name="description" content="The place where anyone can see my work, written and drawn!">
+    <link rel="stylesheet" href="/assets/style.css">
   </head>
   <body>
     <header>
